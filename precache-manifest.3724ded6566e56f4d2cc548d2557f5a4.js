@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23766a54ceb3b3a4e5a7b44d481e49e3",
+    "revision": "16dcd10f4d789f9ad1d9ee6a1f60b1c2",
     "url": "/fancyCalc/index.html"
   },
   {
-    "revision": "7f8b917466e7e077842f",
-    "url": "/fancyCalc/static/css/main.3fbeaceb.chunk.css"
+    "revision": "dff832369d5e083f7a85",
+    "url": "/fancyCalc/static/css/main.737713ce.chunk.css"
   },
   {
     "revision": "bd4d6fd3858ed9c79e9d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fancyCalc/static/js/2.6145f54a.chunk.js.LICENSE"
   },
   {
-    "revision": "7f8b917466e7e077842f",
+    "revision": "dff832369d5e083f7a85",
     "url": "/fancyCalc/static/js/main.d5c92244.chunk.js"
   },
   {
