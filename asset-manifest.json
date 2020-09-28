@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fancyCalc/static/css/main.3fbeaceb.chunk.css",
+    "main.js": "/fancyCalc/static/js/main.d5c92244.chunk.js",
+    "main.js.map": "/fancyCalc/static/js/main.d5c92244.chunk.js.map",
+    "runtime-main.js": "/fancyCalc/static/js/runtime-main.be02a880.js",
+    "runtime-main.js.map": "/fancyCalc/static/js/runtime-main.be02a880.js.map",
+    "static/js/2.6145f54a.chunk.js": "/fancyCalc/static/js/2.6145f54a.chunk.js",
+    "static/js/2.6145f54a.chunk.js.map": "/fancyCalc/static/js/2.6145f54a.chunk.js.map",
+    "index.html": "/fancyCalc/index.html",
+    "precache-manifest.2cddba2b3331fe88ed7affb92a659bee.js": "/fancyCalc/precache-manifest.2cddba2b3331fe88ed7affb92a659bee.js",
+    "service-worker.js": "/fancyCalc/service-worker.js",
+    "static/css/main.3fbeaceb.chunk.css.map": "/fancyCalc/static/css/main.3fbeaceb.chunk.css.map",
+    "static/js/2.6145f54a.chunk.js.LICENSE": "/fancyCalc/static/js/2.6145f54a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be02a880.js",
+    "static/js/2.6145f54a.chunk.js",
+    "static/css/main.3fbeaceb.chunk.css",
+    "static/js/main.d5c92244.chunk.js"
+  ]
+}
